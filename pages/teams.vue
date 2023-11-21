@@ -32,12 +32,12 @@
                     <div class="text-center mt-6">
                       <!-- Name -->
                       <h1 class="text-gray-900 text-xl font-bold mb-1">
-                        Tranter Jaskulski
+                        Prof. Dr. Gilson Costa
                       </h1>
 
                       <!-- Title -->
                       <div class="text-gray-700 font-light mb-2">
-                        Founder & Specialist
+                        Coordenação
                       </div>
 
                       <!-- Social Icons -->
@@ -75,7 +75,7 @@
                     <div class="text-center mt-6">
                       <!-- Name -->
                       <h1 class="text-gray-900 text-xl font-bold mb-1">
-                        Denice Jagna
+                        MSc. Roberta Veríssimo
                       </h1>
 
                       <!-- Title -->
@@ -118,7 +118,7 @@
                     <div class="text-center mt-6">
                       <!-- Name -->
                       <h1 class="text-gray-900 text-xl font-bold mb-1">
-                        Kenji Milton
+                        Mestranda Alanny Cristine
                       </h1>
 
                       <!-- Title -->
@@ -166,7 +166,7 @@
                     <div class="text-center mt-6">
                       <!-- Name -->
                       <h1 class="text-gray-900 text-xl font-bold mb-1">
-                        Denice Jagna
+                        Mestrando Wellyngthon Peres
                       </h1>
 
                       <!-- Title -->
@@ -209,7 +209,7 @@
                     <div class="text-center mt-6">
                       <!-- Name -->
                       <h1 class="text-gray-900 text-xl font-bold mb-1">
-                        Kenji Milton
+                        PROATEC - Thayná Emerick
                       </h1>
 
                       <!-- Title -->
@@ -252,7 +252,7 @@
                     <div class="text-center mt-6">
                       <!-- Name -->
                       <h1 class="text-gray-900 text-xl font-bold mb-1">
-                        Doesn't matter
+                        Tatiane Moraes
                       </h1>
 
                       <!-- Title -->
@@ -298,7 +298,7 @@
                     <div class="text-center mt-6">
                       <!-- Name -->
                       <h1 class="text-gray-900 text-xl font-bold mb-1">
-                        Denice Jagna
+                        Giovanna Arêas
                       </h1>
 
                       <!-- Title -->
@@ -341,7 +341,7 @@
                     <div class="text-center mt-6">
                       <!-- Name -->
                       <h1 class="text-gray-900 text-xl font-bold mb-1">
-                        Kenji Milton
+                        Giselle Gouveia
                       </h1>
 
                       <!-- Title -->
@@ -384,7 +384,7 @@
                     <div class="text-center mt-6">
                       <!-- Name -->
                       <h1 class="text-gray-900 text-xl font-bold mb-1">
-                        Doesn't matter
+                        Giovanni Pavani
                       </h1>
 
                       <!-- Title -->

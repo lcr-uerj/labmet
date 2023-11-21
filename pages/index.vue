@@ -1,7 +1,10 @@
 <template>
   <section class="pt-48 pb-36 relative">
     <div class="absolute w-full h-full top-0 left-0 bg-cover bg-center bg-no-repeat opacity-80 bg-fixed" style="background-image:url(https://d1pnnwteuly8z3.cloudfront.net/images/dafc1e05-b0e8-4c6d-b375-4a62333bbd5a/71fe09e2-9320-4f61-8eca-067243e2ef68.jpeg)"></div>
-    <h1 class="text-white display-2 text-3xl text-center relative">Sobre Nós</h1>
+    <h1 class="text-white display-2 text-2xl text-center relative">
+      A  Ressonância Magnética Nuclear (RMN) é uma extremamente poderosa no mapeamento de pequenas moléculas
+      Podemos mapear o Metabolismo em larga escala de biofluidos, tecidos, células e alimentos através da Metabolômica por RMN
+    </h1>
   </section>
 
   <div class="grid shadow-sm divide-y overflow-hidden sm:flex sm:divide-y-0  dark:shadow-slate-700/[.7] dark:divide-gray-600">
@@ -62,11 +65,11 @@
   background-position: center center;
 ">
     <div class=" p-10  py-20  flex  flex-col  flex-wrap  justify-center  content-center">
-      <div class=" m-0  p-0  text-3xl  text-white  antialiased  text-center">Get Our Updates</div>
-      <div class=" m-0  p-0  text-xl  text-white  antialiased  text-center">Find out about events and other news</div>
+      <div class=" m-0  p-1  text-3xl  text-white  antialiased  text-center">Mapeamento do Perfil Metabólico em Larga Escala: Metabolômica por RMN</div>
+      <div class=" m-0  p-1  text-xl  text-white  antialiased text-opacity-50  text-center">Inscreva-se para receber novidades sobre ofertas especiais, promoções e eventos.</div>
       <div class=" mt-3  flex  flex-row  flex-wrap">
-        <input type="text" class=" text-gray-600  w-2/3  p-2  rounded-l-lg" placeholder="john@mail.com"/>
-        <button class=" p-2  w-1/3  bg-indigo-400  rounded-r-lg  text-white hover:bg-indigo-300" type="button">Subscribe</button>
+        <input type="text" class=" text-gray-600  w-2/3  p-2  rounded-l-lg" placeholder="EMAIL"/>
+        <button class=" p-2  w-1/3  bg-indigo-400  rounded-r-lg  text-white hover:bg-indigo-300 uppercase" type="button">Inscrever-se</button>
       </div>
     </div>
   </div>
