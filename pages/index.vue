@@ -1,6 +1,6 @@
 <template>
   <section class="pt-48 pb-36 relative">
-    <div class="absolute w-full h-full top-0 left-0 bg-cover bg-center bg-no-repeat opacity-80 bg-fixed" style="background-image:url(https://d1pnnwteuly8z3.cloudfront.net/images/dafc1e05-b0e8-4c6d-b375-4a62333bbd5a/71fe09e2-9320-4f61-8eca-067243e2ef68.jpeg)"></div>
+    <div class="absolute w-full h-full top-0 left-0 bg-cover bg-center bg-no-repeat opacity-80 bg-fixed" style="background-image:url(https://wallpaperset.com/w/full/8/d/8/452751.jpg)"></div>
     <h1 class="text-white display-2 text-2xl text-center relative">
       A  Ressonância Magnética Nuclear (RMN) é uma extremamente poderosa no mapeamento de pequenas moléculas
       Podemos mapear o Metabolismo em larga escala de biofluidos, tecidos, células e alimentos através da Metabolômica por RMN
