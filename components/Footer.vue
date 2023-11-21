@@ -53,5 +53,15 @@
 </template>
 
 <style scoped>
+@media (min-width: 1381px) {
+  .container {
+    max-width: 1381px !important;
+  }
+}
 
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1024px !important;
+  }
+}
 </style>
