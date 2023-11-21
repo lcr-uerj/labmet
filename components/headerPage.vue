@@ -27,7 +27,7 @@
             <a href="/" class="block mx-4 mt-2 md:mt-0 text-sm text-gray-700 uppercase hover:text-blue-600">Home</a>
             <a href="/teams" class="block mx-4 mt-2 md:mt-0 text-sm text-gray-700 uppercase hover:text-blue-600">Quem Somos</a>
             <a href="/projects" class="block mx-4 mt-2 md:mt-0 text-sm text-gray-700 uppercase hover:text-blue-600">Projetos e pesquisa</a>
-            <a href="#" class="block mx-4 mt-2 md:mt-0 text-sm text-gray-700 uppercase hover:text-blue-600">Serviços e Cotações</a>
+            <a href="/service" class="block mx-4 mt-2 md:mt-0 text-sm text-gray-700 uppercase hover:text-blue-600">Serviços e Cotações</a>
           </div>
         </div>
       </div>
