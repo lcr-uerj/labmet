@@ -63,8 +63,7 @@ definePageMeta({
 })
 </script>
 
-<style lang="scss" scoped>
-
+<style scoped>
 @media (min-width: 1381px) {
   .container {
     max-width: 1381px !important;
@@ -76,5 +75,4 @@ definePageMeta({
     max-width: 1024px !important;
   }
 }
-
 </style>
