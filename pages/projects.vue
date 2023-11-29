@@ -17,7 +17,7 @@
               Mariana F Rodrigues, Emilie Obre, Fabiana HM de Melo, Gilson C Santos Jr, Antonio Galina, Miriam G Jasiulionis, Rodrigue Rossignol, Franklin D Rumjanek, Nivea D Amoêdo
             </div>
             <div class="flex justify-end container mx-auto">
-              <button class="hover:text-amber-300 hover:bg-amber-700 p-3 mt-5 bg-red-700 text-white">
+              <button class="hover:text-amber-300 hover:bg-amber-700 rounded p-3 mt-5 bg-red-700 text-white">
                 <a target="_blank" href="https://www.researchgate.net/profile/Antonio-Galina/publication/288002309_Enhanced_OXPHOS_glutaminolysis_and_beta-oxidation_constitute_the_metastatic_phenotype_of_melanoma_cells/links/5712971808aeebe07c03a43c/Enhanced-OXPHOS-glutaminolysis-and-beta-oxidation-constitute-the-metastatic-phenotype-of-melanoma-cells.pdf">Saiba Mais</a>
               </button>
             </div>
@@ -33,7 +33,7 @@
               D.P. Aguiar E.B. de Sousa, G.C. dos Santos Junior, M.E.L. Duarte, V. Moura Neto
             </div>
             <div class="flex justify-end container mx-auto">
-              <button class="hover:text-amber-300 hover:bg-amber-700 p-3 mt-5 bg-red-700 text-white">
+              <button class="hover:text-amber-300 hover:bg-amber-700 rounded p-3 mt-5 bg-red-700 text-white">
                 <a href="https://www.scielo.br/j/bjmbr/a/mjpbLnhK5Ndjb5bdjWtv4zm/abstract/?lang=en" target="_blank">Saiba Mais</a>
               </button>
             </div>
@@ -48,7 +48,7 @@
             <div class="text-black text-opacity-60">
               Ana Carolina B Sant’Anna-Silva, Gilson C Santos, Samir P Costa Campos, André Marco Oliveira Gomes, Juan Alberto Pérez-Valencia, Franklin David Rumjanek            </div>
             <div class="flex justify-end container mx-auto">
-              <button class="hover:text-amber-300 hover:bg-amber-700 p-3 mt-5 bg-red-700 text-white">
+              <button class="hover:text-amber-300 hover:bg-amber-700 rounded p-3 mt-5 bg-red-700 text-white">
                 <a target="_blank" href="https://www.frontiersin.org/articles/10.3389/fonc.2018.00013/full">Saiba Mais</a>
               </button>
             </div>
@@ -66,7 +66,7 @@
             <div class="text-black text-opacity-60">
               Jeane de Souza Nogueira, Cíntia Barros Santos-Rebouças, Rafael Mina Piergiorge, Ana Paula Valente, Marcos C. Gama-Almeida, Tatiana El-Bacha, Maria Luiza Lopes Moreira, Bruna Silva Baptista Marques, Jessica Rodrigues de Siqueira, Erika Martins de Carvalho, Orlando da Costa Ferreira Jr., Luís Cristóvão Porto, Tatiana Kelly da Silva Fidalgo, and Gilson Costa dos Santos Jr.            </div>
             <div class="flex justify-end container mx-auto">
-              <button class="hover:text-amber-300 hover:bg-amber-700 p-3 mt-5 bg-red-700 text-white">
+              <button class="hover:text-amber-300 hover:bg-amber-700 rounded p-3 mt-5 bg-red-700 text-white">
                 <a target="_blank" href="https://pubs.acs.org/doi/full/10.1021/acs.jproteome.3c00014#">Saiba Mais</a>
               </button>
             </div>
