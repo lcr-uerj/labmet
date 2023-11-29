@@ -36,7 +36,7 @@
                       </h1>
 
                       <!-- Title -->
-                      <div class="text-gray-700 font-light mb-2">
+                      <div class="text-black font-light mb-2">
                         Coordenação
                       </div>
 
@@ -79,7 +79,7 @@
                       </h1>
 
                       <!-- Title -->
-                      <div class="text-gray-700 font-light mb-2">
+                      <div class="text-black font-light mb-2">
                         Tired & M. Specialist
                       </div>
 
@@ -122,7 +122,7 @@
                       </h1>
 
                       <!-- Title -->
-                      <div class="text-gray-700 font-light mb-2">
+                      <div class="text-black font-light mb-2">
                         Team Memeber
                       </div>
 
@@ -170,7 +170,7 @@
                       </h1>
 
                       <!-- Title -->
-                      <div class="text-gray-700 font-light mb-2">
+                      <div class="text-black font-light mb-2">
                         Tired & M. Specialist
                       </div>
 
@@ -213,7 +213,7 @@
                       </h1>
 
                       <!-- Title -->
-                      <div class="text-gray-700 font-light mb-2">
+                      <div class="text-black font-light mb-2">
                         Team Memeber
                       </div>
 
@@ -256,7 +256,7 @@
                       </h1>
 
                       <!-- Title -->
-                      <div class="text-gray-700 font-light mb-2">
+                      <div class="text-black font-light mb-2">
                         Will be fired
                       </div>
 
@@ -302,7 +302,7 @@
                       </h1>
 
                       <!-- Title -->
-                      <div class="text-gray-700 font-light mb-2">
+                      <div class="text-black font-light mb-2">
                         Tired & M. Specialist
                       </div>
 
@@ -345,7 +345,7 @@
                       </h1>
 
                       <!-- Title -->
-                      <div class="text-gray-700 font-light mb-2">
+                      <div class="text-black font-light mb-2">
                         Team Memeber
                       </div>
 
@@ -388,7 +388,7 @@
                       </h1>
 
                       <!-- Title -->
-                      <div class="text-gray-700 font-light mb-2">
+                      <div class="text-black font-light mb-2">
                         Will be fired
                       </div>
 

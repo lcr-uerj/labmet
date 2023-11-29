@@ -6,7 +6,7 @@
       </div>
     </div>
     <div class="flex justify-center my-10 container mx-auto">
-      <h1 class="text-2xl font-bold">
+      <h1 class="text-2xl px-max font-bold">
         Formulário de dados preliminares para contratação de exame de metabolômica.
       </h1>
     </div>
@@ -22,6 +22,11 @@ definePageMeta({
 })
 </script>
 
-<style lang="scss" scoped>
-
+<style scoped>
+@media (max-width: 640px) {
+  .px-max {
+    padding-left: 2.5rem/* 40px */;
+    padding-right: 2.5rem/* 40px */;
+  }
+}
 </style>

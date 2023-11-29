@@ -7,7 +7,7 @@
     </div>
     <div class="py-10 bg-gray-500">
       <page-title>
-        <div class="text-white container mx-auto">
+        <div class="text-white px-max container mx-auto">
           teste
         </div>
       </page-title>
@@ -20,7 +20,7 @@
               <h1 class="text-2xl font-semibold">Soro/Plasma/Urina</h1>
               <p class="mt-2">This is a beautiful nature image placeholder. You can replace it with your own image.</p>
               <div class="mt-10">
-                <button class="py-1.5 px-2.5 my-5 rounded bg-amber-500 hover:bg-amber-200">
+                <button class="py-1.5 px-2.5 my-5 rounded bg-amber-500 hover:text-black hover:bg-amber-200">
                   <a style="text-decoration: none" target="_self" href="/cotacao">Saiba Mais</a>
                 </button>
               </div>
@@ -34,7 +34,7 @@
               <h1 class="text-2xl font-semibold">Cultura celular</h1>
               <p class="mt-2">This is a beautiful nature image placeholder. You can replace it with your own image.</p>
               <div class="mt-10">
-                <button class="py-1.5 px-2.5 my-5 rounded bg-amber-500 hover:bg-amber-200">
+                <button class="py-1.5 px-2.5 my-5 rounded bg-amber-500 hover:text-black hover:bg-amber-200">
                   <a style="text-decoration: none" target="_self" href="/cotacao">Saiba Mais</a>
                 </button>
               </div>
@@ -48,7 +48,7 @@
               <h1 class="text-2xl font-semibold">Extrato celular</h1>
               <p class="mt-2">This is a beautiful nature image placeholder. You can replace it with your own image.</p>
               <div class="mt-10">
-                <button class="py-1.5 px-2.5 my-5 rounded bg-amber-500 hover:bg-amber-200">
+                <button class="py-1.5 px-2.5 my-5 rounded bg-amber-500 hover:text-black hover:bg-amber-200">
                   <a style="text-decoration: none" target="_self" href="/cotacao">Saiba Mais</a>
                 </button>
               </div>
@@ -67,6 +67,12 @@ definePageMeta({
 </script>
 
 <style scoped>
+@media (max-width: 640px) {
+  .px-max {
+    padding-left: 2.5rem/* 40px */;
+    padding-right: 2.5rem/* 40px */;
+  }
+}
 @media (min-width: 1381px) {
   .container {
     max-width: 1381px !important;
