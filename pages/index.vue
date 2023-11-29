@@ -20,7 +20,11 @@
           </p>
         </div>
         <div class="flex justify-center">
-          <button class="py-1.5 px-4 rounded bg-amber-500 hover:bg-amber-200">Saiba Mais</button>
+          <button class="py-1.5 px-4 rounded bg-amber-500 hover:bg-amber-200">
+            <a style="text-decoration: none" target="_self" href="/teams">
+              Saiba Mais
+            </a>
+          </button>
         </div>
       </div>
     </div>
@@ -37,7 +41,11 @@
           </p>
         </div>
         <div class="flex justify-center">
-          <button class="py-1.5 px-4 rounded bg-amber-500 hover:bg-amber-200">Saiba Mais</button>
+          <button class="py-1.5 px-4 rounded bg-amber-500 hover:bg-amber-200">
+            <a style="text-decoration: none" target="_self" href="#">
+              Saiba Mais
+            </a>
+          </button>
         </div>
       </div>
     </div>
@@ -54,7 +62,11 @@
           </p>
         </div>
         <div class="flex justify-center">
-          <button class="py-1.5 px-4 rounded bg-amber-500 hover:bg-amber-200">Saiba Mais</button>
+          <button class="py-1.5 px-4 rounded bg-amber-500 hover:bg-amber-200">
+            <a style="text-decoration: none" target="_self" href="/projects">
+              Saiba Mais
+            </a>
+          </button>
         </div>
       </div>
     </div>
