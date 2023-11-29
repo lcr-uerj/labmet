@@ -15,7 +15,8 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           <!-- Blog Entry 1 -->
           <div class="max-w-sm mx-auto relative shadow-md rounded-lg cursor-pointer">
-            <div class="bottom-0 left-0 right-0 p-2.5 h-64 bg-black bg-opacity-50 backdrop-blur text-white rounded-lg">
+            <img src="https://images.unsplash.com/photo-1516205651411-aef33a44f7c2?auto=format&fit=crop&q=80&w=1528&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Img by Meriç Dağlı https://unsplash.com/@meric" class="w-full absolute h-64 object-cover rounded-lg">
+            <div class="relative bottom-0 left-0 right-0 p-2.5 h-64 bg-black bg-opacity-50 text-white rounded-lg">
               <h1 class="text-2xl font-semibold">Soro/Plasma/Urina</h1>
               <p class="mt-2">This is a beautiful nature image placeholder. You can replace it with your own image.</p>
               <div class="mt-10">
@@ -28,7 +29,8 @@
 
           <!-- Blog Entry 2 -->
           <div class="max-w-sm mx-auto relative shadow-md rounded-lg cursor-pointer">
-            <div class="bottom-0 left-0 right-0 p-2.5 h-64 bg-black bg-opacity-50 backdrop-blur text-white rounded-lg">
+            <img src="https://images.unsplash.com/photo-1516205651411-aef33a44f7c2?auto=format&fit=crop&q=80&w=1528&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Img by Meriç Dağlı https://unsplash.com/@meric" class="w-full absolute h-64 object-cover rounded-lg">
+            <div class="relative bottom-0 left-0 right-0 p-2.5 h-64 bg-black bg-opacity-50 text-white rounded-lg">
               <h1 class="text-2xl font-semibold">Cultura celular</h1>
               <p class="mt-2">This is a beautiful nature image placeholder. You can replace it with your own image.</p>
               <div class="mt-10">
@@ -41,7 +43,8 @@
 
           <!-- Blog Entry 3 -->
           <div class="max-w-sm mx-auto relative shadow-md rounded-lg cursor-pointer">
-            <div class=" bottom-0 left-0 p-2.5 right-0 h-64 bg-black bg-opacity-50 backdrop-blur text-white rounded-lg">
+            <img src="https://images.unsplash.com/photo-1516205651411-aef33a44f7c2?auto=format&fit=crop&q=80&w=1528&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Img by Meriç Dağlı https://unsplash.com/@meric" class="w-full absolute h-64 object-cover rounded-lg">
+            <div class="relative bottom-0 left-0 p-2.5 right-0 h-64 bg-black bg-opacity-50 text-white rounded-lg">
               <h1 class="text-2xl font-semibold">Extrato celular</h1>
               <p class="mt-2">This is a beautiful nature image placeholder. You can replace it with your own image.</p>
               <div class="mt-10">
