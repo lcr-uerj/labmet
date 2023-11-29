@@ -1,38 +1,49 @@
 <script setup>
+import { Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/vue'
+import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/vue/24/outline'
 
+const navigation = [
+  { name: 'Home', href: '/', current: false },
+  { name: 'Quem Somos', href: '/teams', current: false },
+  { name: 'Projetos e pesquisa', href: '/projects', current: false },
+  { name: 'Serviços', href: '/service', current: false },
+  { name: 'Cotações', href: '/cotacao', current: false },
+]
 </script>
 
 <template>
   <header>
-    <nav class="bg-white shadow">
-      <div class="container mx-auto px-6 py-3 ">
-        <div class="md:flex md:items-center md:justify-between">
-          <div class="flex justify-between items-center">
-            <div class="text-xl font-semibold text-gray-700">
-              <a href="#" class="text-gray-800 text-xl font-bold hover:text-gray-700 md:text-2xl">LABMET</a>
-            </div>
-
-            <!-- Mobile menu button -->
-            <div class="flex md:hidden">
-              <button type="button" class="text-gray-500 hover:text-gray-600 focus:outline-none focus:text-gray-600" aria-label="toggle menu">
-                <svg viewBox="0 0 24 24" class="h-6 w-6 fill-current">
-                  <path fill-rule="evenodd" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"></path>
-                </svg>
-              </button>
-            </div>
+    <Disclosure as="nav" class="bg-white" v-slot="{ open }">
+      <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+        <div class="relative flex h-16 items-center justify-between">
+          <div class="absolute inset-y-0 left-0 flex items-center lg:hidden">
+            <!-- Mobile menu button-->
+            <DisclosureButton class="relative inline-flex items-center justify-around rounded-md p-2 text-gray-400 hover:bg-gray-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white">
+              <span class="absolute -inset-0.5" />
+              <span class="sr-only">Open main menu</span>
+              <Bars3Icon v-if="!open" class="block h-6 w-6" aria-hidden="true" />
+              <XMarkIcon v-else class="block h-6 w-6" aria-hidden="true" />
+            </DisclosureButton>
           </div>
-
-          <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
-          <div class="hidden -mx-4 md:flex md:items-center">
-            <a href="/" class="block mx-4 mt-2 md:mt-0 text-sm text-gray-700 uppercase hover:text-blue-600">Home</a>
-            <a href="/teams" class="block mx-4 mt-2 md:mt-0 text-sm text-gray-700 uppercase hover:text-blue-600">Quem Somos</a>
-            <a href="/projects" class="block mx-4 mt-2 md:mt-0 text-sm text-gray-700 uppercase hover:text-blue-600">Projetos e pesquisa</a>
-            <a href="/service" class="block mx-4 mt-2 md:mt-0 text-sm text-gray-700 uppercase hover:text-blue-600">Serviços</a>
-            <a href="/cotacao" class="block mx-4 mt-2 md:mt-0 text-sm text-gray-700 uppercase hover:text-blue-600">Cotações</a>
+          <div class="flex flex-1 items-center justify-around lg:items-stretch lg:justify-around">
+            <div class="flex flex-shrink-0 items-center">
+              <a href="/" class="text-gray-800 text-2xl font-bold hover:text-gray-700 lg:text-2xl">LABMET</a>
+            </div>
+            <div class="hidden lg:block">
+              <div class="flex space-x-4">
+                <a v-for="item in navigation" :key="item.name" :href="item.href" :class="[item.current ? 'bg-gray-900 text-black' : 'text-black hover:text-gray-600', 'rounded-md px-3 py-2 text-lg uppercase font-medium']" :aria-current="item.current ? 'page' : undefined">{{ item.name }}</a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-    </nav>
+
+      <DisclosurePanel class="lg:hidden">
+        <div class="bg-black space-y-1 px-2 pb-3 pt-2">
+          <DisclosureButton v-for="item in navigation" :key="item.name" as="a" :href="item.href" :class="[item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white', 'block rounded-md px-3 py-2 text-base font-medium']" :aria-current="item.current ? 'page' : undefined">{{ item.name }}</DisclosureButton>
+        </div>
+      </DisclosurePanel>
+    </Disclosure>
   </header>
 </template>
 
