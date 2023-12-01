@@ -80,7 +80,7 @@
 
                       <!-- Title -->
                       <div class="text-black font-light mb-2">
-                        Tired & M. Specialist
+                        Team Member
                       </div>
 
                       <!-- Social Icons -->
@@ -123,7 +123,7 @@
 
                       <!-- Title -->
                       <div class="text-black font-light mb-2">
-                        Team Memeber
+                        Team Member
                       </div>
 
                       <!-- Social Icons -->
@@ -171,7 +171,7 @@
 
                       <!-- Title -->
                       <div class="text-black font-light mb-2">
-                        Tired & M. Specialist
+                        Team Member
                       </div>
 
                       <!-- Social Icons -->
@@ -214,7 +214,7 @@
 
                       <!-- Title -->
                       <div class="text-black font-light mb-2">
-                        Team Memeber
+                        Team Member
                       </div>
 
                       <!-- Social Icons -->
@@ -257,7 +257,7 @@
 
                       <!-- Title -->
                       <div class="text-black font-light mb-2">
-                        Will be fired
+                        Team Member
                       </div>
 
                       <!-- Social Icons -->
@@ -303,7 +303,7 @@
 
                       <!-- Title -->
                       <div class="text-black font-light mb-2">
-                        Tired & M. Specialist
+                        Team Member
                       </div>
 
                       <!-- Social Icons -->
@@ -346,7 +346,7 @@
 
                       <!-- Title -->
                       <div class="text-black font-light mb-2">
-                        Team Memeber
+                        Team Member
                       </div>
 
                       <!-- Social Icons -->
@@ -389,7 +389,7 @@
 
                       <!-- Title -->
                       <div class="text-black font-light mb-2">
-                        Will be fired
+                        Team Member
                       </div>
 
                       <!-- Social Icons -->
