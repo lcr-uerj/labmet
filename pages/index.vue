@@ -7,7 +7,7 @@
     </h1>
   </section>
 
-  <div class="grid shadow-sm divide-y overflow-hidden sm:divide-y-0  dark:shadow-slate-700/[.7] dark:divide-gray-600">
+  <div class="grid-responsi shadow-sm divide-y overflow-hidden sm:divide-y-0  dark:shadow-slate-700/[.7] dark:divide-gray-600">
     <div class="relative flex flex-col flex-[1_0_0%] bg-white shadow-sm dark:bg-slate-900 dark:shadow-slate-700/[.7]">
       <img class="w-full h-80 imgs-decal" src="../assets/imgs/equipe_labmet.png" alt="Image Description">
       <div class="absolute top-36 start-0 end-0">
@@ -92,6 +92,18 @@
 </script>
 
 <style>
+
+@media (max-width: 1100px)
+.grid-responsi {
+  display: grid !important;
+}
+
+@media (min-width: 1100px) {
+  .grid-responsi {
+    display: flex !important;
+  }
+}
+
 .imgs-decal {
   height: 100%;
   opacity: 0.5;
